@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"productName": "WebGLTest",
 "productVersion": "0.1",
 "dataUrl": "WebGLTest.data.unityweb",
 "wasmCodeUrl": "WebGLTest.wasm.code.unityweb",
